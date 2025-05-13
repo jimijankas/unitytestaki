@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|c:\\users\\panag\\documents\\unity stuff\\prama pou trexei\\assets\\scripts\\coinspin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coinspin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\assets\\scripts\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\assets\\scripts\\playbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\assets\\simplelowpolynature\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|solutionrelative:assets\\simplelowpolynature\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\RightLeft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\RightLeft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\assets\\simplelowpolynature\\shaders\\simplewater.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{5765B38F-707F-59D2-161D-886E7CEAF7E5}|Assembly-CSharp.csproj|solutionrelative:assets\\simplelowpolynature\\shaders\\simplewater.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAqwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:49:32.451Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinSpin.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\CoinSpin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CoinSpin.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\CoinSpin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CoinSpin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:40:53.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Playbtn.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\Playbtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Playbtn.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\Playbtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Playbtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:04:37.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\SimpleLowPolyNature\\Readme.txt",
+              "RelativeDocumentMoniker": "Assets\\SimpleLowPolyNature\\Readme.txt",
+              "ToolTip": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\SimpleLowPolyNature\\Readme.txt",
+              "RelativeToolTip": "Assets\\SimpleLowPolyNature\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-11T19:08:56.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LevelGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\LevelGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelGenerator.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\LevelGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T17:54:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SimpleWater.shader",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\SimpleLowPolyNature\\Shaders\\SimpleWater.shader",
+              "RelativeDocumentMoniker": "Assets\\SimpleLowPolyNature\\Shaders\\SimpleWater.shader",
+              "ToolTip": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\SimpleLowPolyNature\\Shaders\\SimpleWater.shader",
+              "RelativeToolTip": "Assets\\SimpleLowPolyNature\\Shaders\\SimpleWater.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-03-04T18:49:00.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RightLeft.cs",
+              "DocumentMoniker": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\RightLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RightLeft.cs",
+              "ToolTip": "C:\\Users\\panag\\Documents\\Unity Stuff\\Prama pou trexei\\Assets\\Scripts\\RightLeft.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RightLeft.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:46:00.623Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
